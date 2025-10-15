@@ -1,7 +1,0 @@
-Django==4.2
-djangorestframework
-celery
-psycopg2-binary
-redis
-pandas
-openpyxl
